@@ -1,6 +1,7 @@
 # Algorithm-Study
+<br>
 
-## Sort
+> ## Sort
 <ul>
   <li>bubble.cpp</li>
   <li>insort.cpp</li>
@@ -9,8 +10,8 @@
   <li>ss.cpp</li>
 </ul>
 
-## Stack
+> ## Stack
 
-## Queue
+> ## Queue
 
-## List
+> ## List
