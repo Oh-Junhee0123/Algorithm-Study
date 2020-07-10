@@ -1,4 +1,4 @@
-# Algorithm-Study
+<h1 align = "center">Algorithm-Study</h1>
 <br>
 
 > ## Sort
