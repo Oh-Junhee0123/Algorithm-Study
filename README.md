@@ -16,4 +16,18 @@
 
 > ## Heap
 
-> ## 
+> ## 정렬
+
+> ## 해시
+
+> ## 완전탐색
+
+> ## Greedy
+
+> ## Dynamic Programming
+
+> ## DFS/BFS
+
+> ## 이분탐색
+
+> ## 그래프
