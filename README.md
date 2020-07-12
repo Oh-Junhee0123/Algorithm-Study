@@ -1,7 +1,7 @@
 <h1 align = "center">Algorithm-Study</h1>
 <br>
 
-> ## Sort
+> ## 정렬(Sort)
 <ul>
   <li>bubble.cpp</li>
   <li>insort.cpp</li>
@@ -18,9 +18,6 @@
 <br>
 
 > ## 힙(Heap)
-<br>
-
-> ## 정렬
 <br>
 
 > ## 해시
