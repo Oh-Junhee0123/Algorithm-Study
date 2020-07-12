@@ -11,13 +11,13 @@
 </ul>
 <br>
 
-> ## Stack
+> ## 스택(Stack)
 <br>
 
-> ## Queue
+> ## 큐(Queue)
 <br>
 
-> ## Heap
+> ## 힙(Heap)
 <br>
 
 > ## 정렬
@@ -29,13 +29,13 @@
 > ## 완전탐색
 <br>
 
-> ## Greedy
+> ## 탐욕법(Greedy)
 <br>
 
-> ## Dynamic Programming
+> ## 동적계획법(Dynamic Programming)
 <br>
 
-> ## DFS/BFS
+> ## 깊이/너비 우선 탐색(DFS/BFS)
 <br>
 
 > ## 이분탐색
